@@ -1,0 +1,9 @@
+[submodule "LAEDS_II_seminario1"]
+	path = LAEDS_II_seminario1
+	url = git@github.com:IagorSs/LAEDS_II_seminario1.git
+[submodule "LLP_2_Achi"]
+	path = LLP_2_Achi
+	url = git@github.com:IagorSs/LLP_2_Achi.git
+[submodule "LLP_1_micro-pascal"]
+	path = LLP_1_micro-pascal
+	url = git@github.com:IagorSs/LLP_1_micro-pascal.git
