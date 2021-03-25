@@ -16,3 +16,9 @@
 [submodule "cg-tp2"]
 	path = cg-tp2
 	url = git@github.com:Corean0/cg-tp2.git
+[submodule "PC2"]
+	path = PC2
+	url = git@github.com:IagorSs/PC2.git
+[submodule "Casino"]
+	path = Casino
+	url = git@github.com:marcus-zuba/Casino.git
